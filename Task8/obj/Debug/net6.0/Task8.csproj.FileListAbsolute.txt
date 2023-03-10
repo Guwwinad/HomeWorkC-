@@ -1,0 +1,15 @@
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/bin/Debug/net6.0/Task8
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/bin/Debug/net6.0/Task8.deps.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/bin/Debug/net6.0/Task8.runtimeconfig.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/bin/Debug/net6.0/Task8.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/bin/Debug/net6.0/Task8.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.csproj.CoreCompileInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/refint/Task8.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/Task8.genruntimeconfig.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task8/obj/Debug/net6.0/ref/Task8.dll
