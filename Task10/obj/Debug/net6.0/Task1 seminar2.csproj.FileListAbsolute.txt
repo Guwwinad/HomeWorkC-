@@ -1,0 +1,30 @@
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/bin/Debug/net6.0/Task1 seminar2
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/bin/Debug/net6.0/Task1 seminar2.deps.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/bin/Debug/net6.0/Task1 seminar2.runtimeconfig.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/bin/Debug/net6.0/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/bin/Debug/net6.0/Task1 seminar2.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.csproj.CoreCompileInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/refint/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/Task1 seminar2.genruntimeconfig.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/ Task1 seminar2/obj/Debug/net6.0/ref/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/bin/Debug/net6.0/Task1 seminar2
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/bin/Debug/net6.0/Task1 seminar2.deps.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/bin/Debug/net6.0/Task1 seminar2.runtimeconfig.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/bin/Debug/net6.0/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/bin/Debug/net6.0/Task1 seminar2.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.csproj.CoreCompileInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/refint/Task1 seminar2.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/Task1 seminar2.genruntimeconfig.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task10/obj/Debug/net6.0/ref/Task1 seminar2.dll
