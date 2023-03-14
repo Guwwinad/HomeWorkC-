@@ -1,0 +1,5 @@
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
