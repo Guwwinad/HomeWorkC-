@@ -12,4 +12,7 @@ if (len == 5)
     else 
     Console.WriteLine("Нет");
 }
-  
+else 
+{
+    Console.WriteLine("Число не является пятизначным");
+}
