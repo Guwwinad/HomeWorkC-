@@ -1,0 +1,15 @@
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.csproj.CoreCompileInputs.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/bin/Debug/net6.0/Transponirovanie
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/bin/Debug/net6.0/Transponirovanie.deps.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/bin/Debug/net6.0/Transponirovanie.runtimeconfig.json
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/bin/Debug/net6.0/Transponirovanie.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/bin/Debug/net6.0/Transponirovanie.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/refint/Transponirovanie.dll
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.pdb
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/Transponirovanie.genruntimeconfig.cache
+/Users/daryakachalkova/Desktop/ГБ/дз/Семинар1 С/HomeWorkC-/Transponirovanie/obj/Debug/net6.0/ref/Transponirovanie.dll
