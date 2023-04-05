@@ -53,7 +53,7 @@ void Smatrix(int[,] matrix)
 
 
 Console.Clear();
-System.Console.Write("Введите размерность массива: ");
+System.Console.Write("Введите размер массива: ");
 int[] size = Console.ReadLine()!.Split().Select(x => int.Parse(x)).ToArray();
 int[,] matrix = new int[size[0], size[1]];
 while (size[0] == size[1])
